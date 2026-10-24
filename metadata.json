@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator 800x800 Warna-Warni",
+  "description": "Aplikasi kalkulator presisi 800x800 pixel dengan bodi abu-abu elegan, tombol multiwarna dengan kontras tinggi, dan tipografi tebal yang mudah dibaca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
